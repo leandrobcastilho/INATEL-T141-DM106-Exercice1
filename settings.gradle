@@ -1,0 +1,2 @@
+//calculadora
+include "calculadora-ear", "calculadora-war", "calculadora-api", "calculadora-impl"
